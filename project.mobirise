@@ -748,7 +748,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/prueba-2-mesa-de-trabajo-1-mesa-de-trabajo-1-copia-3-2000x804.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -786,7 +786,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fibra-2.5-mesa-de-trabajo-1-copia-2-2000x902.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
